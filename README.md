@@ -12,7 +12,7 @@ https://github.com/mistralai/mistral-src
 https://mistral.ai/news/mixtral-of-experts/
 
 ### 🖼 Output
-
+![image](https://github.com/camenduru/mixtral-8x22b-instruct-v0.1-replicate/assets/54370274/70f6e6f7-3f71-46fb-a259-b6c01a5401ae)
 
 ### 🏢 Sponsor
 https://replicate.com
